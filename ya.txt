@@ -77,7 +77,6 @@
 <a href="https://comicspodcasts.com/">Pkv Games</a>
 <a href="https://worldin1001view.com/">Pkv Games</a>
 <a href="https://libyanembassymy.com/">Pkv Games</a>
-<a href="https://id.sc.jax.org/">Pkv Games</a>
 <a href="https://bandarqq.pro/">Bandarqq</a>
 <a href="https://bandarqq.ink/">Bandarqq</a>
 <a href="https://situsbandarqq.it.com/">Bandarqq</a>
@@ -96,7 +95,10 @@
 <a href="https://www.aprecomusical.com/">QiuQiu</a>
 <a href="https://situsidnpoker.it.com/">Idn Poker</a>
 </div>
-
+<div style="display:none">
+<a href="https://id.sc.jax.org/">Pkv Games</a>
+<a href="https://fcreg2025.mahacet.org/">Bandarqq</a>
+</div>
 <div style="display:none;">
 	<a href="https://www.beingdevil.com/">www.beingdevil.com</a>
 	<a href="https://bestdailyarticles.com/">bestdailyarticles.com</a>
